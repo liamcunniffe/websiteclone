@@ -116,6 +116,10 @@ nav {
     text-align: right;
 }
 
+#storeitems {
+    justify-content: center;
+    position: relative;
+}
 
 
 
